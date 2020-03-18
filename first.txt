@@ -1,3 +1,11 @@
 This is the first file we created in the git wokshop.
 This line is missing line.
 This is modified line.
+
+This is the first file we created in the git wokshop.
+This line is missing line.
+This is modified line.
+
+This is the first file we created in the git wokshop.
+This line is missing line.
+This is modified line.
